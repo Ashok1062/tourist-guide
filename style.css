@@ -1,0 +1,237 @@
+*
+{
+ margin: 0;
+ padding: 0;
+}
+
+nav img{
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ margin-left: 25%;
+ margin-bottom: 50px;
+ margin-top: 50px;
+ }
+nav{
+  box-shadow: 3px 13px 19px 0px rgba(0,0,0,0.75);
+margin-bottom: 10px;
+}
+.sec-1 h5{
+ color: red;
+ text-decoration: underline;
+ text-align: center;
+ margin-top: 30px;
+}
+.sec-1 h2{
+ color: black;
+ text-align: center;
+ margin-top: 25px;
+ font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.sec-1 p{
+  color: black;
+  text-align: center;
+  margin-top: 5px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+ }
+.subsec-1{
+ margin-left: 21%;
+ margin-top: 10px;
+}
+
+.sec-3 h4{
+ margin-left: 22.5%;
+ font-weight: bold;
+ font-size: 16px;
+ font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.sec-3 h2{
+  margin-left: 22.5%;
+  font-weight: bold;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.sec-3 p{
+  margin-left: 22.5%;
+  font-size: 17px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+ a{
+  color: rgb(228, 5, 5);
+ 
+  }
+ .subsec-2 
+{
+margin-left: 18%;
+
+}
+
+
+.sec-4{
+ font-size: 20px;
+}
+.subsec-3 p{
+  margin-left: 22.5%;
+  font-size: 17px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+ .sec-5 p{
+  margin-left: 30px;
+  font-size: 17px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+ .sec-5 h3{
+  margin-left: 30px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+ }
+.subsec-4 ul{
+  margin-left: 25%;
+  font-size: 20px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+.subsec-5 h3{
+ margin-left: 23%;
+ font-family:Verdana, Geneva, Tahoma, sans-serif
+ 
+}
+.subsec-5 p{
+  margin-left: 23%;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 17px;
+ }
+
+.sec-5{
+ margin-top: 20px;
+ margin-left: 20%;
+}
+.lightcolor{
+  color: rgb(153, 152, 152);
+  font-style: italic;
+}
+.subsec-7 h3{
+ margin-top: 15px;
+}
+.subsec-7{
+  margin-left: 20px;
+}
+
+.subsec-9{
+  margin-left: 5%;
+}
+.subsec-10{
+  color: gray;
+  font-style: italic;
+  
+}
+.sec-7{
+  margin-left: 19%;
+}
+
+
+.sec-6{
+ margin-left: 19%;
+ margin-top: 20px;
+ font-size: 20px;
+}
+.sec-7{
+ font-size: 20px;
+}
+.subsec-11{
+  margin-left: 7%; 
+}
+
+.sec-8{
+ margin-top: 7px;
+ line-height: 1.5;
+}
+.subsec-12{
+ margin-top: 15px;
+
+ margin-left: 23%;
+ font-size: 20px;
+}
+.subsec-13{
+  margin-right: 70%;
+}
+.subsec-14  {
+ text-align: center;
+ color: rgb(153, 15, 80);
+ text-decoration: underline;
+ font-weight: bold;
+}
+.subsec-15{
+margin-left: 23%;
+font-size: 20px;
+}
+
+.subsec-16{
+  font-size: 25px;
+}
+.subsec-17{
+ margin-top: 9px;
+ margin-left: 20%;
+}
+.subsec-18{
+ margin-top: 15px;
+ margin-left: 23%;
+ font-size: 20px;
+
+}
+.subsec-19{
+  margin-left: 27%;
+  color: gainsboro;
+  font-style: italic;
+}
+.subsec-20{
+ margin-left: 19%;
+ font-size: 20px;
+}
+.subsec-21{
+margin-left: 70px;
+}
+
+.subsec-22{
+ margin-left: 7%;
+ font-style: italic;
+ font-size: 20px;
+}
+.subsec-23{
+
+ font-size: 20px;
+ margin-top: 10px;
+
+}
+.subsec-24 {
+  margin-left: 35%;
+  
+}
+.subsec-24 a{
+  text-decoration: none;
+  color: black;
+}
+.subsec-24 a:hover{
+  text-decoration: underline;
+}
+.subsec-25{
+  margin-left: 50px;
+}
+.subsec-26{
+  margin-left: 50px;
+}
+.foot{
+ background-color: black;
+ color: white;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ height: 150px;
+}
+.social-link i{
+ font-size: 20px;
+}
+.img{
+ display: flex;
+}
+body{
+margin-left: 10%;
+}
